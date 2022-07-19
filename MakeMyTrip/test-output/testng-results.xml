@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16984" started-at="2022-07-18T20:15:31 IST" finished-at="2022-07-18T20:15:48 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16984" started-at="2022-07-18T20:15:31 IST" finished-at="2022-07-18T20:15:48 IST">
+      <class name="com.mmt.tescases.HomePageTest">
+        <test-method status="PASS" signature="loadConfig()[pri:0, instance:com.mmt.tescases.HomePageTest@2a742aa2]" name="loadConfig" is-config="true" duration-ms="21" started-at="2022-07-18T20:15:31 IST" finished-at="2022-07-18T20:15:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mmt.tescases.HomePageTest@2a742aa2]" name="setUp" is-config="true" duration-ms="13201" started-at="2022-07-18T20:15:31 IST" finished-at="2022-07-18T20:15:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fillDetailsTest()[pri:2, instance:com.mmt.tescases.HomePageTest@2a742aa2]" name="fillDetailsTest" duration-ms="3673" started-at="2022-07-18T20:15:44 IST" finished-at="2022-07-18T20:15:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillDetailsTest -->
+      </class> <!-- com.mmt.tescases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
